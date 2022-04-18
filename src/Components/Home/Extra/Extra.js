@@ -7,10 +7,10 @@ const Extra = () => {
 
             <div className='mt-3 p-5 col-lg-6 col-sm-12'>
                 <h3>What is our Goal</h3>
-                <p>Its a busy world nowadays,,and in this busy world its hard to maintain fitness. But without fitness its hard for a person to lead a happy life. We have a lot to do everyday and its kinda trouble to think about and manage workout Routines and then finally do those exercises.Thats why I am here to easy your life,,I have done your Thinking and Managing part.You just need to do those exercises to get yourself fit</p>
+                <p>The world concestently changeing day by day. Pepole are gatting alone for degitaligation. For this reasone people want to keep their happy moment mamoriable . For do this kind of things the best way is Photograph.So want that those people who cant affort photographer by high paid . I will make them happy.</p>
             </div>
             <div className='col-lg-6 col-sm-12 mt-0'>
-                <img className='w-75 ' src="https://twobrainbusiness.com/wp-content/uploads/2021/11/20211129-Close-2.jpg" alt="" />
+                <img className='w-75 ' src="https://assets.website-files.com/6099445145bf8136e2b5757f/60a380883b1fcba49b298486_Aperture%20Start%20Hero%204.jpg" alt="" />
             </div>
         </div>
     );

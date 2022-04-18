@@ -11,13 +11,13 @@ const Banner = () => {
                 </div>
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <img src="https://runningmagazine.ca/wp-content/uploads/2020/07/Screen-Shot-2020-07-19-at-4.10.38-PM-1200x675.jpg" className="d-block w-100" alt="..." />
+                        <img src="https://assets.website-files.com/6099445145bf8136e2b5757f/60a380880a6d1566077cc48a_Aperture%20Start%20Hero%201.jpg" className="d-block w-100" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="https://d3laewezlz9ul2.cloudfront.net/wp-content/uploads/2021/02/25090028/21027-Blog-1200x675-1.jpg" className="d-block w-100" alt="..." />
+                        <img src="https://assets.website-files.com/6099445145bf8136e2b5757f/60a38087ae731c69dac4cd4c_Aperture%20Start%20Hero%203.jpg" className="d-block w-100" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80" className="d-block w-100" alt="..." />
+                        <img src="https://assets.website-files.com/6099445145bf8136e2b5757f/60a380883b1fcba49b298486_Aperture%20Start%20Hero%204.jpg" className="d-block w-100" alt="..." />
                     </div>
                 </div>
                 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">

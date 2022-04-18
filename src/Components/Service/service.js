@@ -9,7 +9,7 @@ const Service = (props) => {
                 <div className="card-body">
                     <h5 className="card-title">{name}</h5>
                     <p className="card-text">{body}</p>
-                    <p className="card-text">Price:{price}$</p>
+                    <p className="card-text">Price: {price}$</p>
                     <button className="btn btn-primary">Start Program</button>
                 </div>
             </div>
