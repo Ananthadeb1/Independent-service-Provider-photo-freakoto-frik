@@ -18,8 +18,8 @@ const Services = () => {
 
     return (
         <div>
-            <h2 className='service- '>Our Programs</h2>
-            <div className='service-container container-fluid p-5 mx-auto'>
+            <h2 className='service-heading '>Our Programs</h2>
+            <div className='service-container container-fluid p-5 ml-50 mx-auto'>
                 {services[0] ? <Service key={services[0]?.id} service={services[0]}></Service> : <></>}
                 {services[1] ? <Service key={services[1]?.id} service={services[1]}></Service> : <></>}
                 {services[2] ? <Service key={services[2]?.id} service={services[2]}></Service> : <></>}
