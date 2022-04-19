@@ -1,4 +1,13 @@
 # Live link (https://splendid-bunny-5cf85f.netlify.app)
+
+about this site :\
+    * this is one of my assignments\
+    * its a website about gym training\
+    * it has react.js inside it\
+    * it has firebase authentication\
+    * it has react router\
+    * it has bootstrap uses
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
