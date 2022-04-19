@@ -8,7 +8,7 @@ import Services from './services/Services';
 const Home = () => {
     return (
         <div className='container-fluid'>
-            <h1 >Fitness Freak</h1>
+            <h1 >Photo Freak</h1>
             <hr className='w-25 mx-auto' />
             <Banner></Banner>
             <Extra></Extra>

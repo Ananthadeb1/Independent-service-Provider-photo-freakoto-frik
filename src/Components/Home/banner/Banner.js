@@ -11,13 +11,13 @@ const Banner = () => {
                 </div>
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <img src="https://assets.website-files.com/6099445145bf8136e2b5757f/60a380880a6d1566077cc48a_Aperture%20Start%20Hero%201.jpg" className="d-block w-100" alt="..." />
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy_fm40ysTzWchpsO5uWqJUBwLEwpuL56cNQ&usqp=CAU" className="d-block w-100" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="https://assets.website-files.com/6099445145bf8136e2b5757f/60a38087ae731c69dac4cd4c_Aperture%20Start%20Hero%203.jpg" className="d-block w-100" alt="..." />
+                        <img src="https://cdn-images.zety.com/pages/photographer_resume_9.jpg" className="d-block w-100" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="https://assets.website-files.com/6099445145bf8136e2b5757f/60a380883b1fcba49b298486_Aperture%20Start%20Hero%204.jpg" className="d-block w-100" alt="..." />
+                        <img src="https://specials-images.forbesimg.com/imageserve/6193f0f2646f783bb47cfe05/Best-Cameras-for-Photography--Photographer-with-camera/960x0.jpg?cropX1=219&cropX2=2216&cropY1=0&cropY2=1497" className="d-block w-100" alt="..." />
                     </div>
                 </div>
                 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">

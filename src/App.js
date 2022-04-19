@@ -10,7 +10,7 @@ import Footer from './components/footer/Footer';
 import Programs from './components/programs/Programs';
 import Signup from './components/signUp/Signup';
 import NotFound from './components/NotFound/NotFound';
-import Requireauth from './components/Requireauth/RequireAuth';
+import RequireAuth from './components/Requireauth/RequireAuth';
 import CheckOut from './components/CheckOut/CheckOut';
 
 
@@ -26,7 +26,7 @@ function App() {
         <Route path='/blogs' element={<Blogs></Blogs>}></Route>
         <Route path='/about' element={<About></About>}></Route>
         <Route path='/login' element={<Login></Login>}></Route>
-        <Route path='/checkOut' element={<Requireauth><CheckOut></CheckOut></Requireauth>}></Route>
+        <Route path='/checkOut' element={<RequireAuth><CheckOut></CheckOut></RequireAuth>}></Route>
         <Route path='/signup' element = {<Signup></Signup>}></Route>
         <Route path='*' element = {<NotFound></NotFound>}></Route>
       </Routes>

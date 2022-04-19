@@ -17,7 +17,11 @@ const Blogs = () => {
                 <h4>Why are you using firebase?</h4>
                 <p>Google Firebase offers many features that pitch it as the go-to backend development tool for web and mobile apps. It reduces development workload and time.And it's a perfect prototyping tool. Firebase is simple, lightweight, friendly, and industrially recognized.</p>
                 <h4>What other options do you have to implement authentication?</h4>
-                <p></p>
+                <p>There are more alternatives of fire base:-
+                    <li>Parse</li>
+                    <li>Back4App</li>
+                    <li>Awm Amplify..(etc)</li>
+                    </p>
             </div>
             <div>
                 <h2>What other services does firebase provide other than authentication?</h2>
