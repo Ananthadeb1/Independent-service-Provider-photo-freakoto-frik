@@ -76,7 +76,7 @@ const Login = () => {
                 {{ error } == 'Firebase: Error (auth/wrong-password)' ? <p>password reset</p> :
 
                     <p>
-                        New to Fitness Freak?? <Link to={'/signup'}>Create new Account</Link>
+                        New to Photo Freak?? <Link to={'/signup'}>Create new Account</Link>
                     </p>
                 }
                 <div className='horizontal-or'>
